@@ -74,4 +74,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
   - Lasso regressor
 
 ## Credits
-- (https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg) - This project wouldn't have been possible without this channels playlist. It saved my enormous amount of time while building UI part. 
+- (https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) - This project wouldn't have been possible without this channels playlist. It saved my enormous amount of time while building UI part. 
