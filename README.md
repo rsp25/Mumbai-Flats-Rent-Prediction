@@ -60,9 +60,9 @@ If your machine doesn't support anaconda simply download jupyter notebook using 
 ```
 
 ## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](rspawar2598@gmail.com) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/rsp25/Mumbai-Flats-Rent-Prediction/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](rspawar2598@gmail.com). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/rsp25/Mumbai-Flats-Rent-Prediction/issues/new). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 
